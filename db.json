@@ -1,6 +1,6 @@
 {
     "dogs": [
-           {
+     {
       "id": 1,
       "name": "Cherry",
       "age": 2,
@@ -8,11 +8,46 @@
       "gender": "Male"
     },
     {
-      "id": 1,
+      "id": 2,
       "name": "Tommy",
       "age": 3,
       "place": "Banglore",
       "gender": "Female"
-    }
+    },
+    {
+        "id": 3,
+        "name": "sheru",
+        "age": 4,
+        "place": "pune",
+        "gender": "Female"
+      },
+      {
+        "id": 4,
+        "name": "mala",
+        "age": 5,
+        "place": "karad",
+        "gender": "male"
+      },
+      {
+        "id": 5,
+        "name": "dala",
+        "age": 6,
+        "place": "lasangao",
+        "gender": "Female"
+      },
+      {
+        "id": 6,
+        "name": "rio",
+        "age": 10,
+        "place": "manglore",
+        "gender": "male"
+      },
+      {
+        "id": 7,
+        "name": "luffy",
+        "age": 12,
+        "place": "bsl",
+        "gender": "Female"
+      }
     ]
 }
