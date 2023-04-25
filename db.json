@@ -1,6 +1,6 @@
 {
-    "dogs": [
-     {
+  "dogs": [
+    {
       "id": 1,
       "name": "Cherry",
       "age": 2,
@@ -15,61 +15,78 @@
       "gender": "female"
     },
     {
-        "id": 3,
-        "name": "sheru",
-        "age": 4,
-        "place": "pune",
-        "gender": "female"
-      },
-      {
-        "id": 4,
-        "name": "mala",
-        "age": 5,
-        "place": "karad",
-        "gender": "male"
-      },
-      {
-        "id": 5,
-        "name": "dala",
-        "age": 6,
-        "place": "lasangao",
-        "gender": "female"
-      },
-      {
-        "id": 6,
-        "name": "rio",
-        "age": 10,
-        "place": "manglore",
-        "gender": "male"
-      },
-      {
-        "id": 7,
-        "name": "luffy",
-        "age": 12,
-        "place": "bsl",
-        "gender": "female"
-      }
-    ],
-  
-      "cars": [
-        {
-          "id": 1,
-          "brand": "Tata",
-          "type":"Manual",
-          "year": "2019",
-          "kms": "10000",
-          "description": "Tata Altroz with all original documents",
-          "price": "500000"
-        },
-        {
-          "id": 2,
-          "brand": "Tata",
-          "type":"AMT",
-          "year": "2017",
-          "kms": "8000",
-          "description": "Tata Nexon with all original documents",
-          "price": "800000"
-        }
-      ],
-      "wishlisted_cars": []
+      "id": 3,
+      "name": "sheru",
+      "age": 4,
+      "place": "pune",
+      "gender": "female"
+    },
+    {
+      "id": 4,
+      "name": "mala",
+      "age": 5,
+      "place": "karad",
+      "gender": "male"
+    },
+    {
+      "id": 5,
+      "name": "dala",
+      "age": 6,
+      "place": "lasangao",
+      "gender": "female"
+    },
+    {
+      "id": 6,
+      "name": "rio",
+      "age": 10,
+      "place": "manglore",
+      "gender": "male"
+    },
+    {
+      "id": 7,
+      "name": "luffy",
+      "age": 12,
+      "place": "bsl",
+      "gender": "female"
+    }
+  ],
+  "cars": [
+    {
+      "id": 1,
+      "brand": "Tata",
+      "type": "Manual",
+      "year": "2019",
+      "kms": "10000",
+      "description": "Tata Altroz with all original documents",
+      "price": "500000"
+    },
+    {
+      "id": 2,
+      "brand": "Tata",
+      "type": "AMT",
+      "year": "2017",
+      "kms": "8000",
+      "description": "Tata Nexon with all original documents",
+      "price": "800000"
+    },
+    {
+      "brand": "ford",
+      "type": "automated",
+      "year": "2020",
+      "kms": "200",
+      "description": "nice car",
+      "price": "600000",
+      "id": 3
+    },
+    {
+      "brand": "toyota",
+      "type": "manual",
+      "year": "2021",
+      "kms": "100",
+      "description": "Perfectly fine consdition",
+      "price": "900000",
+      "id": 4
+    }
+  ],
+  "wishlisted_cars": []
 }
