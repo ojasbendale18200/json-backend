@@ -55,36 +55,36 @@
       "id": 1,
       "brand": "Tata",
       "type": "Manual",
-      "year": "2019",
-      "kms": "10000",
+      "year": 2019,
+      "kms": 10000,
       "description": "Tata Altroz with all original documents",
-      "price": "500000"
+      "price": 500000
     },
     {
       "id": 2,
       "brand": "Tata",
       "type": "AMT",
-      "year": "2017",
-      "kms": "8000",
+      "year": 2017,
+      "kms": 8000,
       "description": "Tata Nexon with all original documents",
-      "price": "800000"
+      "price": 800000
     },
     {
       "brand": "ford",
       "type": "automated",
-      "year": "2020",
-      "kms": "200",
+      "year": 2020,
+      "kms": 200,
       "description": "nice car",
-      "price": "600000",
+      "price": 600000,
       "id": 3
     },
     {
       "brand": "toyota",
       "type": "manual",
-      "year": "2021",
-      "kms": "100",
+      "year": 2021,
+      "kms": 100,
       "description": "Perfectly fine consdition",
-      "price": "900000",
+      "price": 900000,
       "id": 4
     }
   ],
